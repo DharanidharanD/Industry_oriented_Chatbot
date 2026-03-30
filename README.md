@@ -10,7 +10,6 @@ IT Support — Password reset, VPN, hardware, software, email & collaboration
 Finance — Invoices, expense claims, budgets, audit & compliance, payments
 
 Tech stack:
-
 Backend: Python, Flask
 Frontend: HTML, CSS, JavaScript (vanilla)
 No database required — knowledge base is built into the app
